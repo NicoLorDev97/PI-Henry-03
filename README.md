@@ -43,6 +43,6 @@ Tambien tenemos medidas como la varianza por Close y Volumen de transaccion
 Por ultimo vemos 2 medidas que son una media movil simple de 55 periodos y otra media movil simple de 9 periodos
 <h3>
 
-
+<br>
 
 <h3> Nicolas Lorusso para SoyHenry <h3>
