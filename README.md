@@ -26,9 +26,13 @@ Este grafico lo maneje tambien con los Open para poder ver bien las subidas que 
 Noticias:
 
 https://www.infobae.com/economia/2021/05/31/bitcoin-su-peor-momento-en-mayo-tuvo-su-peor-mes-en-casi-10-anos/
+
 https://www.iproup.com/economia-digital/26341-cual-es-el-precio-del-bitcoin-hoy-jueves-30-de-septiembre
+
 https://eltiempolatino.com/2022/07/27/economia/tasas-de-interes-anuncian-el-cuarto-aumento-en-2022/
+
 https://www.cronista.com/infotechnology/criptomonedas/caida-de-luna-los-7-mega-inversores-secretos-que-la-tiraron-abajo-y-cual-era-su-plan-secreto/
+
 
 Dos de ellas son caida en el precio, una subida en el precio y un caso particular de una caida de casi el 100% de una moneda (Luna Terra, LUNC)
 
@@ -38,3 +42,5 @@ Tambien tenemos medidas como la varianza por Close y Volumen de transaccion
 
 Por ultimo vemos 2 medidas que son una media movil simple de 55 periodos y otra media movil simple de 9 periodos
 <h3>
+
+<h3> Nicolas Lorusso <h3>
