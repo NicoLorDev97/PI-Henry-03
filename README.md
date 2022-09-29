@@ -40,7 +40,9 @@ Dos de ellas son caida en el precio, una subida en el precio y un caso particula
 Hay otro grafico de anillos donde indico el MarketCap (valor total de las acciones en circulacion) de las 10 criptos.
 Tambien tenemos medidas como la varianza por Close y Volumen de transaccion
 
-Por ultimo vemos 2 medidas que son una media movil simple de 55 periodos y otra media movil simple de 9 periodos
+Manejamos 2 medidas que son una media movil simple de 55 periodos y otra media movil simple de 9 periodos
+
+Y por ultimo finalizamos con una calculadora que para x cantidad de dolares nos devuelve determinada cantidad de la cripto que elijamos
 <h3>
 
 <br>
